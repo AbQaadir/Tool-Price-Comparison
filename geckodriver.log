@@ -1,0 +1,593 @@
+1693040529614	geckodriver	INFO	Listening on 127.0.0.1:51998
+1693040532687	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51999" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABDULQ~1\\AppData\\Local\\Temp\\rust_mozprofileThluLI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693040532896	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693040532946	Marionette	INFO	Listening on port 52009
+WebDriver BiDi listening on ws://127.0.0.1:51999
+Read port: 52009
+1693040533085	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51999/devtools/browser/8f7ea818-80bd-4135-b3e6-5366c967e476
+1693040546223	Marionette	INFO	Stopped listening on port 52009
+Dynamically enable window occlusion 1
+[Parent 25688, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 26008, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 25688, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 26008, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 25688, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 26008, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 25688, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 26008, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 25688, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 26008, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693040578592	geckodriver	INFO	Listening on 127.0.0.1:52036
+1693040581645	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52037" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABDULQ~1\\AppData\\Local\\Temp\\rust_mozprofilexhsbbL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693040581839	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693040581886	Marionette	INFO	Listening on port 52044
+WebDriver BiDi listening on ws://127.0.0.1:52037
+Read port: 52044
+1693040582012	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52037/devtools/browser/64c2daf4-3ae7-4e4b-b962-5010aac31123
+JavaScript warning: https://glomark.lk/__zenedge/assets/f.js?v=1674207422, line 33: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://glomark.lk/__zenedge/assets/f.js?v=1674207422, line 33: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 10588, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 13336, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-KPGF1E2FPL&l=dataLayer&cx=c, line 448: Script terminated by timeout at:
+aa.mh@https://www.googletagmanager.com/gtag/js?id=G-KPGF1E2FPL&l=dataLayer&cx=c:448:42
+get@https://www.googletagmanager.com/gtag/js?id=G-KPGF1E2FPL&l=dataLayer&cx=c:446:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-KPGF1E2FPL&l=dataLayer&cx=c:446:87
+aa.uk/c/<@https://www.googletagmanager.com/gtag/js?id=G-KPGF1E2FPL&l=dataLayer&cx=c:446:412
+
+1693040592879	Marionette	INFO	Stopped listening on port 52044
+Dynamically enable window occlusion 1
+[Parent 10588, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 13336, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 10588, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 13336, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 10588, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 13336, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 10588, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 13336, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 10588, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 13336, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693040632162	geckodriver	INFO	Listening on 127.0.0.1:52143
+1693040635239	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52144" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABDULQ~1\\AppData\\Local\\Temp\\rust_mozprofileNUrHFC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693040635432	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693040635476	Marionette	INFO	Listening on port 52151
+WebDriver BiDi listening on ws://127.0.0.1:52144
+Read port: 52151
+1693040635604	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52144/devtools/browser/053cfcc6-1f7f-4d8d-b46a-b9b76bea2769
+JavaScript warning: https://glomark.lk/__zenedge/assets/f.js?v=1674207422, line 33: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://glomark.lk/__zenedge/assets/f.js?v=1674207422, line 33: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 16120, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22200, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-KPGF1E2FPL&l=dataLayer&cx=c, line 448: Script terminated by timeout at:
+aa.mh@https://www.googletagmanager.com/gtag/js?id=G-KPGF1E2FPL&l=dataLayer&cx=c:448:42
+get@https://www.googletagmanager.com/gtag/js?id=G-KPGF1E2FPL&l=dataLayer&cx=c:446:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-KPGF1E2FPL&l=dataLayer&cx=c:446:87
+aa.uk/c/<@https://www.googletagmanager.com/gtag/js?id=G-KPGF1E2FPL&l=dataLayer&cx=c:446:412
+
+1693040646965	Marionette	INFO	Stopped listening on port 52151
+Dynamically enable window occlusion 1
+[Parent 16120, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22200, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 16120, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22200, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 16120, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22200, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 16120, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[Parent 16120, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22200, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[GPU 22200, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693040672314	geckodriver	INFO	Listening on 127.0.0.1:52247
+1693040675368	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52248" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABDULQ~1\\AppData\\Local\\Temp\\rust_mozprofileopTd1U"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693040675562	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693040675608	Marionette	INFO	Listening on port 52262
+WebDriver BiDi listening on ws://127.0.0.1:52248
+Read port: 52262
+1693040675735	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52248/devtools/browser/b06e3081-76de-4796-9a1f-da188cd44e43
+JavaScript warning: https://glomark.lk/__zenedge/assets/f.js?v=1674207422, line 33: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://glomark.lk/__zenedge/assets/f.js?v=1674207422, line 33: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693040682940	Marionette	INFO	Stopped listening on port 52262
+JavaScript warning: https://glomark.lk/__zenedge/assets/f.js?v=1674207422, line 4: Script terminated by timeout at:
+document.onreadystatechange/I/b.onreadystatechange@https://glomark.lk/__zenedge/assets/f.js?v=1674207422:4:113
+I@https://glomark.lk/__zenedge/assets/f.js?v=1674207422:4:117
+document.onreadystatechange/</ya/</</<@https://glomark.lk/__zenedge/assets/f.js?v=1674207422:15:433
+document.onreadystatechange/g.prototype.Pa/<@https://glomark.lk/__zenedge/assets/f.js?v=1674207422:4:489
+
+Dynamically enable window occlusion 1
+[Parent 17412, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 24800, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 17412, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 24800, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 17412, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 24800, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 17412, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[Parent 17412, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 24800, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[GPU 24800, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 17412, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 24800, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693040904094	geckodriver	INFO	Listening on 127.0.0.1:52439
+1693040907160	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52440" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABDULQ~1\\AppData\\Local\\Temp\\rust_mozprofile96jaOs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693040907353	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693040907399	Marionette	INFO	Listening on port 52447
+WebDriver BiDi listening on ws://127.0.0.1:52440
+Read port: 52447
+1693040907527	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52440/devtools/browser/40d29a1b-7ac1-44ba-a631-fc629a791ad3
+JavaScript warning: https://glomark.lk/__zenedge/assets/f.js?v=1674207422, line 33: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://glomark.lk/__zenedge/assets/f.js?v=1674207422, line 33: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693040915345	Marionette	INFO	Stopped listening on port 52447
+Dynamically enable window occlusion 1
+[Parent 9676, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 16400, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 9676, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 16400, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 9676, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 16400, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 9676, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 16400, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 9676, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 16400, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 9676, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 16400, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693040931199	geckodriver	INFO	Listening on 127.0.0.1:52540
+1693040934287	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52541" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABDULQ~1\\AppData\\Local\\Temp\\rust_mozprofile7z9k7j"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693040934482	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693040934527	Marionette	INFO	Listening on port 52548
+WebDriver BiDi listening on ws://127.0.0.1:52541
+Read port: 52548
+1693040934655	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52541/devtools/browser/7e5b87a9-b002-479e-9bc9-b985390c8693
+JavaScript warning: https://glomark.lk/__zenedge/assets/f.js?v=1674207422, line 33: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://glomark.lk/__zenedge/assets/f.js?v=1674207422, line 33: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 25080, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 5908, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-ETM6EF16KL&l=dataLayer&cx=c, line 463: Script terminated by timeout at:
+aa.mh@https://www.googletagmanager.com/gtag/js?id=G-ETM6EF16KL&l=dataLayer&cx=c:463:42
+get@https://www.googletagmanager.com/gtag/js?id=G-ETM6EF16KL&l=dataLayer&cx=c:461:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-ETM6EF16KL&l=dataLayer&cx=c:461:87
+aa.uk/c/<@https://www.googletagmanager.com/gtag/js?id=G-ETM6EF16KL&l=dataLayer&cx=c:461:412
+
+1693041574721	Marionette	INFO	Stopped listening on port 52548
+Dynamically enable window occlusion 1
+[Parent 25080, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 5908, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 25080, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 5908, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 25080, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 5908, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+. Please use RENDERER.
+1693041069398	Marionette	INFO	Stopped listening on port 52687
+JavaScript warning: https://code.jquery.com/jquery-3.5.1.min.js, line 2: Script terminated by timeout at:
+i@https://code.jquery.com/jquery-3.5.1.min.js:2:88724
+
+Dynamically enable window occlusion 1
+[Parent 21016, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 8940, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 21016, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 8940, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 21016, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[Parent 21016, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 8940, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[GPU 8940, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693041301501	geckodriver	INFO	Listening on 127.0.0.1:52787
+1693041304540	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52788" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABDULQ~1\\AppData\\Local\\Temp\\rust_mozprofilewEXrcW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693041304741	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693041304787	Marionette	INFO	Listening on port 52795
+WebDriver BiDi listening on ws://127.0.0.1:52788
+Read port: 52795
+1693041304913	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52788/devtools/browser/4a09eec1-63a0-4a00-9b6f-ae5063af9ae2
+JavaScript warning: https://glomark.lk/__zenedge/assets/f.js?v=1674207422, line 33: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://glomark.lk/__zenedge/assets/f.js?v=1674207422, line 33: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 13200, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 6796, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-KPGF1E2FPL&l=dataLayer&cx=c, line 448: Script terminated by timeout at:
+aa.mh@https://www.googletagmanager.com/gtag/js?id=G-KPGF1E2FPL&l=dataLayer&cx=c:448:42
+get@https://www.googletagmanager.com/gtag/js?id=G-KPGF1E2FPL&l=dataLayer&cx=c:446:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-KPGF1E2FPL&l=dataLayer&cx=c:446:87
+aa.uk/c/<@https://www.googletagmanager.com/gtag/js?id=G-KPGF1E2FPL&l=dataLayer&cx=c:446:412
+
+1693041575498	Marionette	INFO	Stopped listening on port 52795
+Dynamically enable window occlusion 1
+[Parent 13200, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 6796, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 13200, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 6796, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 13200, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 6796, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+d. Please use RENDERER.
+1693041446648	Marionette	INFO	Stopped listening on port 52943
+JavaScript warning: https://code.jquery.com/jquery-3.5.1.min.js, line 2: Script terminated by timeout at:
+i@https://code.jquery.com/jquery-3.5.1.min.js:2:88724
+
+Dynamically enable window occlusion 1
+[Parent 19004, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22332, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 19004, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22332, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 19004, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22332, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693041558891	geckodriver	INFO	Listening on 127.0.0.1:53033
+1693041561939	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53034" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABDULQ~1\\AppData\\Local\\Temp\\rust_mozprofileQbsE55"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693041562132	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693041562178	Marionette	INFO	Listening on port 53041
+WebDriver BiDi listening on ws://127.0.0.1:53034
+Read port: 53041
+1693041562307	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53034/devtools/browser/81376d1a-0734-4ec6-8d70-7624eb3d7a54
+JavaScript warning: https://glomark.lk/__zenedge/assets/f.js?v=1674207422, line 33: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 14960, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 10232, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://glomark.lk/__zenedge/assets/f.js?v=1674207422, line 33: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693041572064	Marionette	INFO	Stopped listening on port 53041
+JavaScript warning: https://script.hotjar.com/modules.1cfaab4c8cd12d2d55e6.js, line 2: Script terminated by timeout at:
+t<@https://script.hotjar.com/modules.1cfaab4c8cd12d2d55e6.js:2:41917
+
+Dynamically enable window occlusion 1
+[Parent 14960, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 10232, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 14960, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 10232, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 14960, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 10232, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 14960, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 10232, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693041588265	geckodriver	INFO	Listening on 127.0.0.1:53137
+1693041591309	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53138" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABDULQ~1\\AppData\\Local\\Temp\\rust_mozprofileK0cvZW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693041591503	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693041591548	Marionette	INFO	Listening on port 53145
+WebDriver BiDi listening on ws://127.0.0.1:53138
+Read port: 53145
+1693041591677	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53138/devtools/browser/80691f23-df71-41a1-aaec-448907fac0e6
+[Parent 8292, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 21832, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://glomark.lk/__zenedge/assets/f.js?v=1674207422, line 33: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://glomark.lk/__zenedge/assets/f.js?v=1674207422, line 33: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693041605575	Marionette	INFO	Stopped listening on port 53145
+JavaScript warning: https://script.hotjar.com/modules.1cfaab4c8cd12d2d55e6.js, line 2: Script terminated by timeout at:
+t<@https://script.hotjar.com/modules.1cfaab4c8cd12d2d55e6.js:2:41917
+
+Dynamically enable window occlusion 1
+[Parent 8292, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 21832, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 8292, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 21832, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 8292, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 21832, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693041800481	geckodriver	INFO	Listening on 127.0.0.1:53246
+1693041803557	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53247" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABDULQ~1\\AppData\\Local\\Temp\\rust_mozprofileH4mSgL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693041803754	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693041803799	Marionette	INFO	Listening on port 53254
+WebDriver BiDi listening on ws://127.0.0.1:53247
+Read port: 53254
+1693041803927	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53247/devtools/browser/31a3389a-24f3-439f-81b9-295c04b99e94
+JavaScript warning: https://glomark.lk/__zenedge/assets/f.js?v=1674207422, line 33: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 25504, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 21412, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://glomark.lk/__zenedge/assets/f.js?v=1674207422, line 33: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693041813408	Marionette	INFO	Stopped listening on port 53254
+JavaScript warning: https://script.hotjar.com/modules.1cfaab4c8cd12d2d55e6.js, line 2: Script terminated by timeout at:
+t<@https://script.hotjar.com/modules.1cfaab4c8cd12d2d55e6.js:2:41917
+
+Dynamically enable window occlusion 1
+[Parent 25504, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 21412, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 25504, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 21412, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 25504, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 21412, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 25504, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 21412, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 25504, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 21412, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693042017876	geckodriver	INFO	Listening on 127.0.0.1:53375
+1693042020942	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53376" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABDULQ~1\\AppData\\Local\\Temp\\rust_mozprofileHovRr0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693042021139	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693042021186	Marionette	INFO	Listening on port 53383
+WebDriver BiDi listening on ws://127.0.0.1:53376
+Read port: 53383
+1693042021313	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53376/devtools/browser/5074f215-2aa0-4fd4-b1f4-604de9d6aa2a
+JavaScript warning: https://glomark.lk/__zenedge/assets/f.js?v=1674207422, line 33: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://glomark.lk/__zenedge/assets/f.js?v=1674207422, line 33: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693042028905	Marionette	INFO	Stopped listening on port 53383
+JavaScript warning: https://script.hotjar.com/modules.1cfaab4c8cd12d2d55e6.js, line 2: Script terminated by timeout at:
+t<@https://script.hotjar.com/modules.1cfaab4c8cd12d2d55e6.js:2:41917
+
+Dynamically enable window occlusion 1
+[Parent 21768, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 18260, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 21768, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 18260, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 21768, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 18260, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 21768, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 18260, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693042126148	geckodriver	INFO	Listening on 127.0.0.1:53531
+1693042129219	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53532" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABDULQ~1\\AppData\\Local\\Temp\\rust_mozprofile3SNinJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693042129415	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693042129460	Marionette	INFO	Listening on port 53539
+WebDriver BiDi listening on ws://127.0.0.1:53532
+Read port: 53539
+1693042129592	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53532/devtools/browser/d595f538-8dbb-40ea-9cda-46e66e2efb87
+JavaScript warning: https://glomark.lk/__zenedge/assets/f.js?v=1674207422, line 33: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://glomark.lk/__zenedge/assets/f.js?v=1674207422, line 33: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693042136269	Marionette	INFO	Stopped listening on port 53539
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UrlClassifierListManager.sys.mjs, line 720: TypeError: this.tablesData[table] is undefined
+[Parent 5760, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22412, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 5760, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22412, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 5760, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22412, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 5760, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22412, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 5760, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22412, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 5760, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22412, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693042178341	geckodriver	INFO	Listening on 127.0.0.1:53632
+1693042181415	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53633" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABDULQ~1\\AppData\\Local\\Temp\\rust_mozprofileIhKKiY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693042181607	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693042181652	Marionette	INFO	Listening on port 53641
+WebDriver BiDi listening on ws://127.0.0.1:53633
+Read port: 53641
+1693042181780	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53633/devtools/browser/eb9c7602-52a6-48b0-863b-7bad148d7f56
+JavaScript warning: https://glomark.lk/__zenedge/assets/f.js?v=1674207422, line 33: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://glomark.lk/__zenedge/assets/f.js?v=1674207422, line 33: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693042189692	Marionette	INFO	Stopped listening on port 53641
+JavaScript warning: https://script.hotjar.com/modules.1cfaab4c8cd12d2d55e6.js, line 2: Script terminated by timeout at:
+t<@https://script.hotjar.com/modules.1cfaab4c8cd12d2d55e6.js:2:41917
+
+Dynamically enable window occlusion 1
+[Parent 24208, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12440, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 24208, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12440, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 24208, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12440, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 24208, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12440, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 24208, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12440, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693042211021	geckodriver	INFO	Listening on 127.0.0.1:53733
+1693042214088	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53734" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABDULQ~1\\AppData\\Local\\Temp\\rust_mozprofiletIxa5s"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693042214295	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693042214341	Marionette	INFO	Listening on port 53741
+WebDriver BiDi listening on ws://127.0.0.1:53734
+Read port: 53741
+1693042214470	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53734/devtools/browser/5ca969f1-4d12-4ed7-a96d-28babfbaa9b4
+JavaScript warning: https://glomark.lk/__zenedge/assets/f.js?v=1674207422, line 33: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://glomark.lk/__zenedge/assets/f.js?v=1674207422, line 33: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693042222325	Marionette	INFO	Stopped listening on port 53741
+JavaScript warning: https://code.jquery.com/jquery-3.5.1.min.js, line 2: Script terminated by timeout at:
+i@https://code.jquery.com/jquery-3.5.1.min.js:2:88724
+
+Dynamically enable window occlusion 1
+[Parent 6648, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22640, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6648, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22640, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6648, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22640, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6648, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22640, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6648, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22640, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6648, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22640, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693042852287	geckodriver	INFO	Listening on 127.0.0.1:53998
+1693042855347	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53999" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABDULQ~1\\AppData\\Local\\Temp\\rust_mozprofileaJRHLu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693042855542	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693042855588	Marionette	INFO	Listening on port 54006
+WebDriver BiDi listening on ws://127.0.0.1:53999
+Read port: 54006
+1693042855715	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53999/devtools/browser/2032a980-084b-4f5e-800f-659f1be1fafb
+JavaScript warning: https://glomark.lk/__zenedge/assets/f.js?v=1674207422, line 33: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://glomark.lk/__zenedge/assets/f.js?v=1674207422, line 33: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693042863190	Marionette	INFO	Stopped listening on port 54006
+JavaScript warning: https://code.jquery.com/jquery-3.5.1.min.js, line 2: Script terminated by timeout at:
+i@https://code.jquery.com/jquery-3.5.1.min.js:2:88724
+
+Dynamically enable window occlusion 1
+[Parent 8912, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 14272, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 8912, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 14272, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 8912, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 14272, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 8912, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 14272, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 8912, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 14272, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693042938662	geckodriver	INFO	Listening on 127.0.0.1:54109
+1693042941741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54110" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABDULQ~1\\AppData\\Local\\Temp\\rust_mozprofilek6KOJP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693042941936	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693042941981	Marionette	INFO	Listening on port 54117
+WebDriver BiDi listening on ws://127.0.0.1:54110
+Read port: 54117
+1693042942110	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54110/devtools/browser/a2921108-61e2-4900-8911-d694804ed3a2
+JavaScript warning: https://glomark.lk/__zenedge/assets/f.js?v=1674207422, line 33: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://glomark.lk/__zenedge/assets/f.js?v=1674207422, line 33: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693042951057	Marionette	INFO	Stopped listening on port 54117
+JavaScript warning: https://code.jquery.com/jquery-3.5.1.min.js, line 2: Script terminated by timeout at:
+i@https://code.jquery.com/jquery-3.5.1.min.js:2:88724
+
+Dynamically enable window occlusion 1
+[Parent 15256, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 24840, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 15256, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 24840, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 15256, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 24840, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 15256, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 24840, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693042976220	geckodriver	INFO	Listening on 127.0.0.1:54220
+1693042979296	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54221" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABDULQ~1\\AppData\\Local\\Temp\\rust_mozprofileJvZyDo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693042979492	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693042979538	Marionette	INFO	Listening on port 54228
+WebDriver BiDi listening on ws://127.0.0.1:54221
+Read port: 54228
+1693042979667	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54221/devtools/browser/eafba577-eef9-443d-8123-b6f0e09ec90e
+JavaScript warning: https://glomark.lk/__zenedge/assets/f.js?v=1674207422, line 33: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://glomark.lk/__zenedge/assets/f.js?v=1674207422, line 33: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693042986862	Marionette	INFO	Stopped listening on port 54228
+JavaScript warning: https://glomark.lk/__zenedge/assets/f.js?v=1674207422, line 4: Script terminated by timeout at:
+document.onreadystatechange/I/b.onreadystatechange@https://glomark.lk/__zenedge/assets/f.js?v=1674207422:4:113
+I@https://glomark.lk/__zenedge/assets/f.js?v=1674207422:4:117
+document.onreadystatechange/</ya/</</<@https://glomark.lk/__zenedge/assets/f.js?v=1674207422:15:433
+document.onreadystatechange/g.prototype.Pa/<@https://glomark.lk/__zenedge/assets/f.js?v=1674207422:4:489
+
+Dynamically enable window occlusion 1
+[Parent 10304, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 9208, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 10304, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 9208, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 10304, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 9208, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 10304, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 9208, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 10304, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 9208, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693043100285	geckodriver	INFO	Listening on 127.0.0.1:54352
+1693043103339	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54353" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABDULQ~1\\AppData\\Local\\Temp\\rust_mozprofilePDynG7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693043103532	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693043103579	Marionette	INFO	Listening on port 54360
+WebDriver BiDi listening on ws://127.0.0.1:54353
+Read port: 54360
+1693043103705	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54353/devtools/browser/423c512c-0092-43e7-9bef-12d4eb997938
+JavaScript warning: https://glomark.lk/__zenedge/assets/f.js?v=1674207422, line 33: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://glomark.lk/__zenedge/assets/f.js?v=1674207422, line 33: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 17844, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 16872, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693043112088	Marionette	INFO	Stopped listening on port 54360
+JavaScript warning: https://script.hotjar.com/modules.1cfaab4c8cd12d2d55e6.js, line 2: Script terminated by timeout at:
+t<@https://script.hotjar.com/modules.1cfaab4c8cd12d2d55e6.js:2:41917
+
+Dynamically enable window occlusion 1
+[Parent 17844, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 16872, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 17844, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 16872, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 17844, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 16872, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 17844, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 16872, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693993358813	geckodriver	INFO	Listening on 127.0.0.1:55717
+1693993361886	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55718" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABDULQ~1\\AppData\\Local\\Temp\\rust_mozprofileS2c1Yf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693993362105	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693993362159	Marionette	INFO	Listening on port 55729
+WebDriver BiDi listening on ws://127.0.0.1:55718
+Read port: 55729
+1693993362301	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55718/devtools/browser/6c8a28d9-f3ae-4daf-bf1f-90f8a93d9570
+JavaScript warning: https://glomark.lk/__zenedge/assets/f.js?v=1674207422, line 33: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://glomark.lk/__zenedge/assets/f.js?v=1674207422, line 33: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693993379969	Marionette	INFO	Stopped listening on port 55729
+JavaScript warning: https://script.hotjar.com/modules.18082f80e35b65d7d66f.js, line 2: Script terminated by timeout at:
+t<@https://script.hotjar.com/modules.18082f80e35b65d7d66f.js:2:41955
+
+Dynamically enable window occlusion 1
+1693993386958	geckodriver	INFO	Listening on 127.0.0.1:55846
+1693993390023	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55847" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABDULQ~1\\AppData\\Local\\Temp\\rust_mozprofileCi5kEy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693993390223	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693993390272	Marionette	INFO	Listening on port 55855
+WebDriver BiDi listening on ws://127.0.0.1:55847
+Read port: 55855
+1693993390403	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55847/devtools/browser/54595f26-b491-4d71-8f4d-77c783b7f0ea
+JavaScript warning: https://glomark.lk/__zenedge/assets/f.js?v=1674207422, line 33: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://glomark.lk/__zenedge/assets/f.js?v=1674207422, line 33: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693993402275	Marionette	INFO	Stopped listening on port 55855
+Dynamically enable window occlusion 1
+1693993484765	geckodriver	INFO	Listening on 127.0.0.1:55992
+1693993487819	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55993" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABDULQ~1\\AppData\\Local\\Temp\\rust_mozprofilewUH7js"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693993488023	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693993488071	Marionette	INFO	Listening on port 56000
+WebDriver BiDi listening on ws://127.0.0.1:55993
+Read port: 56000
+1693993488204	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55993/devtools/browser/132d823e-62c7-489c-8aa8-26da7c916c21
+JavaScript warning: https://glomark.lk/__zenedge/assets/f.js?v=1674207422, line 33: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://glomark.lk/__zenedge/assets/f.js?v=1674207422, line 33: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693993509656	Marionette	INFO	Stopped listening on port 56000
+JavaScript warning: https://code.jquery.com/jquery-3.5.1.min.js, line 2: Script terminated by timeout at:
+i@https://code.jquery.com/jquery-3.5.1.min.js:2:88724
+
+Dynamically enable window occlusion 1
